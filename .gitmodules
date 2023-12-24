@@ -1,3 +1,6 @@
 [submodule "hw-01-modeling"]
 	path = hw-01-modeling
 	url = https://github.com/gracikk-ds/hw-01-modeling
+[submodule "hw-01-service"]
+	path = hw-01-service
+	url = https://github.com/gracikk-ds/hw-01-service
